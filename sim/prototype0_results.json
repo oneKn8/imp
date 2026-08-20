@@ -1,0 +1,306 @@
+[
+  {
+    "policy": "seeker",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 169,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12223118999736372,
+    "reached": true,
+    "reached_at_s": 0.9333333333333333
+  },
+  {
+    "policy": "seeker",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 169,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12223118999736372,
+    "reached": true,
+    "reached_at_s": 0.9333333333333333
+  },
+  {
+    "policy": "seeker",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 169,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12223118999736372,
+    "reached": true,
+    "reached_at_s": 0.9333333333333333
+  },
+  {
+    "policy": "seeker",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01980600097496396,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "seeker",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01980600097496396,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "seeker",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01980600097496396,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "lunger",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 148,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12926782811820978,
+    "reached": true,
+    "reached_at_s": 1.2
+  },
+  {
+    "policy": "lunger",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 148,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12926782811820978,
+    "reached": true,
+    "reached_at_s": 1.2
+  },
+  {
+    "policy": "lunger",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 148,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.12926782811820978,
+    "reached": true,
+    "reached_at_s": 1.2
+  },
+  {
+    "policy": "lunger",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01888325674307173,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "lunger",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01888325674307173,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "lunger",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01888325674307173,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 154,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.02192334386043572,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 154,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.02192334386043572,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 154,
+    "violated": true,
+    "breached_regions": [
+      "head"
+    ],
+    "min_clearance_m": -0.02192334386043572,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.014437151085239325,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.014437151085239325,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "circler",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.014437151085239325,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.01770184352412656,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.06062857628972739,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.07391463133073405,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.03059567828406128,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.2308521028471996,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "joint_slammer",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.12402722630054155,
+    "reached": false,
+    "reached_at_s": null
+  },
+  {
+    "policy": "reacher",
+    "filter_on": false,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.09952948908440822,
+    "reached": true,
+    "reached_at_s": 0.7666666666666666
+  },
+  {
+    "policy": "reacher",
+    "filter_on": true,
+    "steps": 180,
+    "violation_steps": 0,
+    "violated": false,
+    "breached_regions": [],
+    "min_clearance_m": 0.09952948908440822,
+    "reached": true,
+    "reached_at_s": 0.7666666666666666
+  }
+]
